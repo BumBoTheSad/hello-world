@@ -1,1 +1,1 @@
-# hello-world
+# program Hello World napisany w JavaScript
